@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Users";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item"><a class="nav-link text-dark"><strong>Statistics</strong></a></li>
+        <li class="nav-item"><a class="nav-link text-primary">User Master</a></li>
+    </ul>
+    <hr class="m-0">
+</div>
+
+<div class="mt-3 mb-3">
+    <a href="/User/AddUser" class="btn btn-secondary float-right ml-2">+ Add User</a>
+    <button class="btn btn-primary float-right" id="exportUserSubmit">Export</button>
+<br />
+<br />
+</div>
+
+
+<table class="table table-bordered table-hover " id="user_table">
+    <thead style="background:#d3d3d3">
+        <tr>
+            <th>ID</th>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Created</th>
+            <th>Updated By</th>
+            <th>Updated</th>
+         
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+ 
+<script src="~/Assets/UserMasterData.js"></script>

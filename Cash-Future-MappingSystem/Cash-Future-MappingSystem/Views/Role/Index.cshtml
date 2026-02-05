@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Role";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item">
+            <a class="nav-link text-dark" href="javascript:void(0);"><strong>Statistics</strong></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/Role/AddRole">Role Master</a>
+        </li>
+    </ul>
+    <hr class="m-0">
+</div>
+
+<article class="col-md-12">
+    <div class="pt-3 d-flex justify-content-between align-items-center">
+        <div class="form-group col-md-2 btnPosition m-0">
+            @*<button type="button" class="btn btn-primary sm-2" id="exportSubmit">Download Excel</button>*@
+        </div>
+        <div class="mb-0">
+            <a href="/Role/AddRole" class="btn btn-secondary ml-1">+</a>
+        </div>
+    </div>
+
+</article>
+
+<br />
+
+<div style="overflow:auto">
+    <table class="table table-hover table-bordered" id="RoleTable">
+        <thead>
+            <tr style="background-color: #d3d3d3">
+                <th>SrNo</th>
+                <th>Code</th>
+                <th>Role Name</th>
+                <th>Created By</th>
+                <th>Created Date</th>
+                <th>IsActive</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<script src="~/Assets/RoleMaster.js"></script>

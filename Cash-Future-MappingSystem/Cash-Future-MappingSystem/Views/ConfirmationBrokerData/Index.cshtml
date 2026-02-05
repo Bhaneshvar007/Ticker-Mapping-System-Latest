@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item">
+            <a class="nav-link text-dark" href="javascript:void(0);">
+                <strong>Statistics</strong>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/ConfirmationBroker">Broker Master</a>
+        </li>
+    </ul>
+    <hr class="m-0">
+</div>
+
+<article class="col-md-12">
+    <div class="pt-3">
+        <button id="btnBrokerExport" class="btn btn-success float-right ml-1">
+            Export
+        </button>
+
+        <div class="mb-4">
+            <a href="/ConfirmationBroker" class="btn btn-secondary float-right ml-1">+</a>
+        </div>
+    </div>
+</article>
+
+<br />
+
+<div>
+    <div style="overflow:auto" id="BrokerPageLoad">
+        <table class="table table-hover table-bordered" id="table_Broker">
+            <thead>
+                <tr style="background-color:#d3d3d3">
+                    <th>ID</th>
+                    <th>Account</th>
+                    <th>Broker</th>
+                    <th>Security</th>
+                    <th>Price</th>
+                    <th>Side</th>
+                    <th>Quantity</th>
+                    <th>Reason</th>
+                    <th>LongNote1</th>
+                    <th>CreatedDate</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</div>
+
+
+<script src="~/Assets/ConfirmationBroker.js"></script>

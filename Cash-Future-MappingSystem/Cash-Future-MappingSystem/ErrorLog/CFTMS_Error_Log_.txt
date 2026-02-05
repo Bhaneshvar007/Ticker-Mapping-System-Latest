@@ -1,0 +1,400 @@
+03-Feb-26 16:24:31	Enter in login controller
+03-Feb-26 16:24:34	user details
+03-Feb-26 16:24:34	Welcome Bhaneshvar
+03-Feb-26 16:24:53	Enter in login controller
+03-Feb-26 16:24:53	user details
+03-Feb-26 16:24:53	Welcome Bhaneshvar
+03-Feb-26 16:30:06	Enter in login controller
+03-Feb-26 16:30:06	user details
+03-Feb-26 16:30:06	Welcome Bhaneshvar
+03-Feb-26 16:39:05	Enter in login controller
+03-Feb-26 16:39:05	user details
+03-Feb-26 16:39:05	Welcome Bhaneshvar
+03-Feb-26 16:40:14	Enter in login controller
+03-Feb-26 16:40:14	user details
+03-Feb-26 16:40:14	Welcome Bhaneshvar
+03-Feb-26 16:42:24	Enter in login controller
+03-Feb-26 16:42:24	user details
+03-Feb-26 16:42:24	Welcome Bhaneshvar
+03-Feb-26 16:49:35	Enter in login controller
+03-Feb-26 16:49:38	user details
+03-Feb-26 16:49:38	Welcome Bhaneshvar
+03-Feb-26 16:52:00	Enter in login controller
+03-Feb-26 16:52:01	user details
+03-Feb-26 16:52:01	Welcome Bhaneshvar
+03-Feb-26 16:57:09	Enter in login controller
+03-Feb-26 16:57:10	user details
+03-Feb-26 16:57:10	Welcome Bhaneshvar
+03-Feb-26 17:05:34	Enter in login controller
+03-Feb-26 17:05:35	user details
+03-Feb-26 17:05:35	Welcome Bhaneshvar
+03-Feb-26 17:07:38	Enter in login controller
+03-Feb-26 17:07:38	user details
+03-Feb-26 17:07:38	Welcome Bhaneshvar
+03-Feb-26 17:09:28	Enter in login controller
+03-Feb-26 17:09:29	user details
+03-Feb-26 17:09:29	Welcome Bhaneshvar
+03-Feb-26 17:11:09	Enter in login controller
+03-Feb-26 17:11:09	user details
+03-Feb-26 17:11:09	Welcome Bhaneshvar
+03-Feb-26 17:16:21	Enter in login controller
+03-Feb-26 17:16:21	user details
+03-Feb-26 17:16:21	Welcome Bhaneshvar
+03-Feb-26 17:18:29	Enter in login controller
+03-Feb-26 17:18:29	user details
+03-Feb-26 17:18:29	Welcome Bhaneshvar
+03-Feb-26 17:21:05	Enter in login controller
+03-Feb-26 17:21:06	user details
+03-Feb-26 17:21:06	Welcome Bhaneshvar
+03-Feb-26 17:24:58	Enter in login controller
+03-Feb-26 17:24:58	user details
+03-Feb-26 17:24:58	Welcome Bhaneshvar
+03-Feb-26 17:31:26	Enter in login controller
+03-Feb-26 17:31:27	user details
+03-Feb-26 17:31:27	Welcome Bhaneshvar
+03-Feb-26 17:32:52	Enter in login controller
+03-Feb-26 17:32:53	user details
+03-Feb-26 17:32:53	Welcome Bhaneshvar
+04-Feb-26 10:27:00	Enter in login controller
+04-Feb-26 10:27:01	user details
+04-Feb-26 10:27:01	Welcome Bhaneshvar
+04-Feb-26 10:56:16	Enter in login controller
+04-Feb-26 10:56:16	user details
+04-Feb-26 10:56:16	Welcome Bhaneshvar
+04-Feb-26 11:57:43	Enter in login controller
+04-Feb-26 11:57:43	user details
+04-Feb-26 11:57:43	Welcome Bhaneshvar
+04-Feb-26 12:17:41	Enter in login controller
+04-Feb-26 12:17:42	user details
+04-Feb-26 12:17:42	Welcome Bhaneshvar
+04-Feb-26 12:42:51	Enter in login controller
+04-Feb-26 12:42:51	user details
+04-Feb-26 12:42:51	Welcome Bhaneshvar
+04-Feb-26 14:27:55	Enter in login controller
+04-Feb-26 14:27:55	user details
+04-Feb-26 14:27:55	Welcome Bhaneshvar
+04-Feb-26 14:40:58	Enter in login controller
+04-Feb-26 14:40:58	user details
+04-Feb-26 14:40:58	Welcome Bhaneshvar
+04-Feb-26 14:41:12	Enter in login controller
+04-Feb-26 14:41:12	user details
+04-Feb-26 14:41:12	Welcome Bhaneshvar
+04-Feb-26 14:41:21	Broker Data 
+04-Feb-26 14:41:21	Broker Data Count 0
+04-Feb-26 14:41:49	Broker GetConfirmationBroker
+04-Feb-26 14:41:49	Broker Data 
+04-Feb-26 14:41:49	Broker Data Count 240
+04-Feb-26 14:41:59	Broker Data 
+04-Feb-26 14:41:59	Broker Data Count 0
+04-Feb-26 14:42:02	Broker GetConfirmationBroker
+04-Feb-26 14:42:02	Broker Data 
+04-Feb-26 14:42:02	Broker Data Count 240
+04-Feb-26 14:42:38	Broker Data 
+04-Feb-26 14:42:38	Broker Data Count 0
+04-Feb-26 14:42:40	Broker GetConfirmationBroker
+04-Feb-26 14:42:40	Broker Data 
+04-Feb-26 14:42:40	Broker Data Count 240
+04-Feb-26 14:43:26	Enter in login controller
+04-Feb-26 14:43:26	user details
+04-Feb-26 14:43:26	Welcome Bhaneshvar
+04-Feb-26 14:47:58	Broker GetConfirmationBroker
+04-Feb-26 14:47:58	Broker Data 
+04-Feb-26 14:47:58	Broker Data Count 240
+04-Feb-26 14:47:59	Broker Data 
+04-Feb-26 14:47:59	Broker Data Count 0
+04-Feb-26 14:48:09	Broker Data 
+04-Feb-26 14:48:09	Broker Data Count 0
+04-Feb-26 14:48:28	Enter in login controller
+04-Feb-26 14:48:28	user details
+04-Feb-26 14:48:28	Welcome Bhaneshvar
+04-Feb-26 14:48:33	Broker Data 
+04-Feb-26 14:48:33	Broker Data Count 0
+04-Feb-26 15:04:10	Enter in login controller
+04-Feb-26 15:04:11	user details
+04-Feb-26 15:04:11	Welcome Bhaneshvar
+04-Feb-26 15:07:44	Enter in login controller
+04-Feb-26 15:07:44	user details
+04-Feb-26 15:07:44	Welcome Bhaneshvar
+04-Feb-26 15:15:46	Enter in login controller
+04-Feb-26 15:15:47	user details
+04-Feb-26 15:15:47	Welcome Bhaneshvar
+04-Feb-26 15:17:05	Broker GetConfirmationBroker
+04-Feb-26 15:17:05	Broker Data 
+04-Feb-26 15:17:05	Broker Data Count 240
+04-Feb-26 15:17:08	Broker Data 
+04-Feb-26 15:17:08	Broker Data Count 0
+04-Feb-26 15:28:20	Enter in login controller
+04-Feb-26 15:58:13	Enter in login controller
+04-Feb-26 15:58:14	user details
+04-Feb-26 15:58:14	Welcome Bhaneshvar
+04-Feb-26 16:00:45	Broker GetConfirmationBroker
+04-Feb-26 16:00:46	Broker Data 
+04-Feb-26 16:00:46	Broker Data Count 240
+04-Feb-26 16:00:48	Broker Data 
+04-Feb-26 16:00:48	Broker Data Count 0
+04-Feb-26 16:11:53	Broker GetConfirmationBroker
+04-Feb-26 16:11:53	Broker Data 
+04-Feb-26 16:11:53	Broker Data Count 240
+04-Feb-26 16:11:53	Broker Data 
+04-Feb-26 16:11:53	Broker Data Count 0
+04-Feb-26 16:15:16	Broker GetConfirmationBroker
+04-Feb-26 16:15:16	Broker Data 
+04-Feb-26 16:15:16	Broker Data Count 240
+04-Feb-26 16:15:16	Broker Data 
+04-Feb-26 16:15:16	Broker Data Count 0
+04-Feb-26 16:29:45	Broker GetConfirmationBroker
+04-Feb-26 16:29:45	Broker Data 
+04-Feb-26 16:29:45	Broker Data Count 240
+04-Feb-26 16:29:45	Broker Data 
+04-Feb-26 16:29:45	Broker Data Count 0
+04-Feb-26 16:35:38	Enter in login controller
+04-Feb-26 16:35:39	user details
+04-Feb-26 16:35:39	Welcome Bhaneshvar
+04-Feb-26 16:35:58	Broker GetConfirmationBroker
+04-Feb-26 16:35:58	Broker Data 
+04-Feb-26 16:35:58	Broker Data Count 240
+04-Feb-26 16:36:15	Broker GetConfirmationBroker
+04-Feb-26 16:36:15	Broker Data 
+04-Feb-26 16:36:15	Broker Data Count 240
+04-Feb-26 16:36:17	Broker Data 
+04-Feb-26 16:36:17	Broker Data Count 0
+04-Feb-26 16:36:26	Broker GetConfirmationBroker
+04-Feb-26 16:36:26	Broker Data 
+04-Feb-26 16:36:26	Broker Data Count 240
+04-Feb-26 16:49:07	Enter in login controller
+04-Feb-26 16:49:08	user details
+04-Feb-26 16:49:08	Welcome Bhaneshvar
+04-Feb-26 16:56:58	Enter in login controller
+04-Feb-26 16:56:58	user details
+04-Feb-26 16:56:58	Welcome Bhaneshvar
+04-Feb-26 16:59:51	Process completed successfully!
+04-Feb-26 17:01:12	Process completed successfully!
+04-Feb-26 17:09:10	Enter in login controller
+04-Feb-26 17:09:11	user details
+04-Feb-26 17:09:11	Welcome Bhaneshvar
+05-Feb-26 10:49:53	Enter in login controller
+05-Feb-26 10:49:54	user details
+05-Feb-26 10:49:54	Welcome Bhaneshvar
+05-Feb-26 11:36:07	Enter in login controller
+05-Feb-26 11:36:08	user details
+05-Feb-26 11:36:08	Welcome Bhaneshvar
+05-Feb-26 11:39:52	Enter in login controller
+05-Feb-26 11:39:53	user details
+05-Feb-26 11:39:53	Welcome Bhaneshvar
+05-Feb-26 12:25:07	Enter in login controller
+05-Feb-26 12:25:11	user details
+05-Feb-26 12:25:11	Welcome Bhaneshvar
+05-Feb-26 12:44:28	Enter in login controller
+05-Feb-26 12:44:28	user details
+05-Feb-26 12:44:28	Welcome Bhaneshvar
+05-Feb-26 12:57:33	Enter in login controller
+05-Feb-26 12:57:34	user details
+05-Feb-26 12:57:34	Welcome Bhaneshvar
+05-Feb-26 14:14:36	Enter in login controller
+05-Feb-26 14:14:37	user details
+05-Feb-26 14:14:37	Welcome Bhaneshvar
+05-Feb-26 14:14:55	Broker GetConfirmationBroker
+05-Feb-26 14:14:55	Broker Data 
+05-Feb-26 14:14:55	Broker Data Count 240
+05-Feb-26 14:23:16	Broker Data 
+05-Feb-26 14:23:16	Broker Data Count 0
+05-Feb-26 14:25:38	getClientUploadFile
+05-Feb-26 14:25:38	ClientMaster File Path : D:\All Cylsys Project\CFTMS-Latest\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\client_file_input.csv
+05-Feb-26 14:25:38	clientname
+05-Feb-26 14:25:38	accountno
+05-Feb-26 14:25:38	quantity
+05-Feb-26 14:25:38	security
+05-Feb-26 14:25:38	Client Tbl 449
+05-Feb-26 14:25:38	Client Data Uploded Successfully
+05-Feb-26 14:25:39	Data Upload Successfully. client_file_input.csv
+05-Feb-26 14:26:03	Data Upload Successfully. SecurityMasterData_input.csv
+05-Feb-26 14:26:11	Data Upload Successfully. broker_file_input.csv
+05-Feb-26 14:26:22	Data Upload Successfully. equity_holdings_input.csv
+05-Feb-26 14:26:36	Data Upload Successfully. future_holdings_input.csv
+05-Feb-26 14:27:20	Process completed successfully!
+05-Feb-26 14:35:30	Broker Data 
+05-Feb-26 14:35:30	Broker Data Count 240
+05-Feb-26 14:52:48	Enter in login controller
+05-Feb-26 14:52:48	user details
+05-Feb-26 14:52:48	Welcome Bhaneshvar
+05-Feb-26 14:56:59	Get User data
+05-Feb-26 14:56:59	User Data count 3
+05-Feb-26 14:57:15	Get User data
+05-Feb-26 14:57:15	User Data count 3
+05-Feb-26 14:57:24	Get User data
+05-Feb-26 14:57:24	User Data count 3
+05-Feb-26 14:57:43	Get User data
+05-Feb-26 14:57:43	User Data count 3
+05-Feb-26 14:58:02	Get User data
+05-Feb-26 14:58:02	User Data count 3
+05-Feb-26 15:00:52	Enter in login controller
+05-Feb-26 15:00:53	user details
+05-Feb-26 15:00:53	Welcome Bhaneshvar
+05-Feb-26 15:00:58	Get User data
+05-Feb-26 15:00:58	User Data count 3
+05-Feb-26 15:01:22	Cylsys.Common.UserModel
+05-Feb-26 15:01:22	Error Useramster insert user  : Procedure or function 'sp_InsertUser' expects parameter '@Code', which was not supplied.
+05-Feb-26 15:01:24	Get User data
+05-Feb-26 15:01:24	User Data count 3
+05-Feb-26 15:01:40	Cylsys.Common.UserModel
+05-Feb-26 15:01:40	Error Useramster insert user  : Procedure or function 'sp_InsertUser' expects parameter '@Code', which was not supplied.
+05-Feb-26 15:12:54	Enter in login controller
+05-Feb-26 15:12:54	user details
+05-Feb-26 15:12:54	Welcome Bhaneshvar
+05-Feb-26 15:12:59	Get User data
+05-Feb-26 15:12:59	User Data count 3
+05-Feb-26 15:13:24	Get User data
+05-Feb-26 15:13:24	User Data count 3
+05-Feb-26 15:14:51	Get User data
+05-Feb-26 15:14:51	User Data count 3
+05-Feb-26 15:15:36	Get User data
+05-Feb-26 15:15:36	User Data count 3
+05-Feb-26 15:15:45	Get User data
+05-Feb-26 15:15:45	User Data count 3
+05-Feb-26 15:16:07	Enter in login controller
+05-Feb-26 15:16:07	user details
+05-Feb-26 15:16:07	Welcome Bhaneshvar
+05-Feb-26 15:16:09	Get User data
+05-Feb-26 15:16:10	User Data count 3
+05-Feb-26 15:17:00	Cylsys.Common.UserModel
+05-Feb-26 15:17:00	Error Useramster insert user  : Procedure or function 'sp_InsertUser' expects parameter '@Code', which was not supplied.
+05-Feb-26 15:17:07	Get User data
+05-Feb-26 15:17:08	User Data count 3
+05-Feb-26 15:17:38	Cylsys.Common.UserModel
+05-Feb-26 15:17:38	Error Useramster insert user  : Procedure or function 'sp_InsertUser' expects parameter '@Code', which was not supplied.
+05-Feb-26 15:17:39	Get User data
+05-Feb-26 15:17:39	User Data count 3
+05-Feb-26 15:17:41	Get User data
+05-Feb-26 15:17:41	User Data count 3
+05-Feb-26 15:17:44	Cylsys.Common.UserModel
+05-Feb-26 15:17:44	Error Useramster insert user  : Procedure or function 'sp_InsertUser' expects parameter '@Code', which was not supplied.
+05-Feb-26 15:17:45	Get User data
+05-Feb-26 15:17:45	User Data count 3
+05-Feb-26 15:18:00	Cylsys.Common.UserModel
+05-Feb-26 15:18:00	User created Sucessfully
+05-Feb-26 15:18:01	Get User data
+05-Feb-26 15:18:01	User Data count 4
+05-Feb-26 15:18:39	Get User data
+05-Feb-26 15:18:39	User Data count 4
+05-Feb-26 15:18:48	Get User data
+05-Feb-26 15:18:48	User Data count 4
+05-Feb-26 15:21:49	Enter in login controller
+05-Feb-26 15:21:49	user details
+05-Feb-26 15:21:49	Welcome Bhaneshvar
+05-Feb-26 15:21:58	Get User data
+05-Feb-26 15:21:58	User Data count 4
+05-Feb-26 15:22:37	Cylsys.Common.UserModel
+05-Feb-26 15:22:37	Error Useramster insert user  : Procedure or function 'sp_InsertUser' expects parameter '@Code', which was not supplied.
+05-Feb-26 15:23:46	Get User data
+05-Feb-26 15:23:46	User Data count 4
+05-Feb-26 15:27:26	Get User data
+05-Feb-26 15:27:26	User Data count 4
+05-Feb-26 15:28:08	Get User data
+05-Feb-26 15:28:08	User Data count 4
+05-Feb-26 15:28:13	Get User data
+05-Feb-26 15:28:13	User Data count 4
+05-Feb-26 15:31:40	Enter in login controller
+05-Feb-26 15:31:42	user details
+05-Feb-26 15:31:42	Welcome Bhaneshvar
+05-Feb-26 15:32:43	Get User data
+05-Feb-26 15:32:43	User Data count 4
+05-Feb-26 15:32:46	Get User data
+05-Feb-26 15:32:46	User Data count 1
+05-Feb-26 15:33:13	Get User data
+05-Feb-26 15:33:13	User Data count 1
+05-Feb-26 15:36:03	Enter in login controller
+05-Feb-26 15:36:03	user details
+05-Feb-26 15:36:12	Enter in login controller
+05-Feb-26 15:36:12	user details
+05-Feb-26 15:36:12	Welcome Bhaneshvar
+05-Feb-26 15:36:41	Get User data
+05-Feb-26 15:36:41	User Data count 4
+05-Feb-26 15:36:45	Get User data
+05-Feb-26 15:36:45	User Data count 1
+05-Feb-26 15:37:42	Get User data
+05-Feb-26 15:37:42	User Data count 1
+05-Feb-26 15:44:42	Enter in login controller
+05-Feb-26 15:44:43	user details
+05-Feb-26 15:44:43	Welcome Bhaneshvar
+05-Feb-26 15:44:47	Get User data
+05-Feb-26 15:44:47	User Data count 4
+05-Feb-26 15:44:49	Get User data
+05-Feb-26 15:44:49	User Data count 1
+05-Feb-26 15:45:04	Get User data
+05-Feb-26 15:45:04	User Data count 1
+05-Feb-26 15:45:07	Get User data
+05-Feb-26 15:45:07	User Data count 1
+05-Feb-26 15:45:55	Get User data
+05-Feb-26 15:45:55	User Data count 1
+05-Feb-26 15:46:21	Get User data
+05-Feb-26 15:46:21	User Data count 1
+05-Feb-26 15:46:31	Get User data
+05-Feb-26 15:46:31	User Data count 1
+05-Feb-26 15:48:14	Enter in login controller
+05-Feb-26 15:48:14	user details
+05-Feb-26 15:48:14	Welcome Bhaneshvar
+05-Feb-26 15:48:20	Get User data
+05-Feb-26 15:48:20	User Data count 4
+05-Feb-26 15:48:22	Get User data
+05-Feb-26 15:48:22	User Data count 1
+05-Feb-26 15:48:32	Get User data
+05-Feb-26 15:48:32	User Data count 4
+05-Feb-26 15:48:33	Get User data
+05-Feb-26 15:48:33	User Data count 1
+05-Feb-26 15:48:52	Cylsys.Common.UserModel
+05-Feb-26 15:48:52	User created Sucessfully
+05-Feb-26 15:48:54	Get User data
+05-Feb-26 15:48:54	User Data count 4
+05-Feb-26 15:53:17	Get User data
+05-Feb-26 15:53:17	User Data count 4
+05-Feb-26 15:53:47	Get User data
+05-Feb-26 15:53:47	User Data count 4
+05-Feb-26 15:54:23	Get User data
+05-Feb-26 15:54:23	User Data count 4
+05-Feb-26 15:54:24	Get User data
+05-Feb-26 15:54:24	User Data count 1
+05-Feb-26 15:54:56	Enter in login controller
+05-Feb-26 15:54:57	user details
+05-Feb-26 15:54:57	Welcome Bhaneshvar
+05-Feb-26 15:55:01	Get User data
+05-Feb-26 15:55:01	User Data count 4
+05-Feb-26 15:55:04	Get User data
+05-Feb-26 15:55:04	User Data count 1
+05-Feb-26 15:55:46	Get User data
+05-Feb-26 15:55:46	User Data count 1
+05-Feb-26 15:55:51	Get User data
+05-Feb-26 15:55:51	User Data count 1
+05-Feb-26 15:55:52	Get User data
+05-Feb-26 15:55:52	User Data count 1
+05-Feb-26 15:55:53	Get User data
+05-Feb-26 15:55:53	User Data count 1
+05-Feb-26 15:56:18	Get User data
+05-Feb-26 15:56:18	User Data count 4
+05-Feb-26 15:56:24	Get User data
+05-Feb-26 15:56:24	User Data count 4
+05-Feb-26 15:57:11	Get User data
+05-Feb-26 15:57:11	User Data count 4
+05-Feb-26 15:57:34	Get User data
+05-Feb-26 15:57:35	User Data count 1
+05-Feb-26 15:58:33	Get User data
+05-Feb-26 15:58:33	User Data count 4
+05-Feb-26 15:58:40	Get User data
+05-Feb-26 15:58:40	User Data count 4
+05-Feb-26 15:58:45	Get User data
+05-Feb-26 15:58:45	User Data count 4
+05-Feb-26 15:58:49	Get User data
+05-Feb-26 15:58:49	User Data count 4
+05-Feb-26 15:59:06	Get User data
+05-Feb-26 15:59:06	User Data count 4
+05-Feb-26 15:59:12	Get User data
+05-Feb-26 15:59:12	User Data count 4
+05-Feb-26 15:59:17	Get User data
+05-Feb-26 15:59:17	User Data count 4
+05-Feb-26 16:03:55	Role Added Sucessfully
+05-Feb-26 16:06:01	Get User data
+05-Feb-26 16:06:01	User Data count 4
+05-Feb-26 16:06:28	Get User data
+05-Feb-26 16:06:28	User Data count 4
+05-Feb-26 16:08:21	Enter in login controller
+05-Feb-26 16:08:23	user details
+05-Feb-26 16:08:23	Welcome Bhaneshvar

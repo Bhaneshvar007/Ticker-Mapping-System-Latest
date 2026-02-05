@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\content\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:content\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\content\\jquery.datatables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:content\\jquery.datatables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\views\\home\\errorhandling.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:views\\home\\errorhandling.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\assets\\rolemaster.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:assets\\rolemaster.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms-latest\\cash-future-mappingsystem\\cash-future-mappingsystem\\assets\\usermasterdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:assets\\usermasterdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\login.css",
+              "RelativeDocumentMoniker": "Content\\login.css",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\login.css",
+              "RelativeToolTip": "Content\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-05T10:43:56.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap.css",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\bootstrap.css",
+              "RelativeToolTip": "Content\\bootstrap.css",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAowOIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-05T10:41:21.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "Content\\font-awesome.min.css",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\font-awesome.min.css",
+              "RelativeToolTip": "Content\\font-awesome.min.css",
+              "ViewState": "AgIAAEYCAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-05T10:40:57.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jquery.dataTables.css",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\jquery.dataTables.css",
+              "RelativeDocumentMoniker": "Content\\jquery.dataTables.css",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\jquery.dataTables.css",
+              "RelativeToolTip": "Content\\jquery.dataTables.css",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-05T10:40:41.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\style.css",
+              "RelativeDocumentMoniker": "Content\\style.css",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Content\\style.css",
+              "RelativeToolTip": "Content\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-05T10:40:11.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T10:39:27.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:38:07.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorHandling.cshtml",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Home\\ErrorHandling.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ErrorHandling.cshtml",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Home\\ErrorHandling.cshtml",
+              "RelativeToolTip": "Views\\Home\\ErrorHandling.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T10:37:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T10:36:50.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddRole.cshtml",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Role\\AddRole.cshtml",
+              "RelativeDocumentMoniker": "Views\\Role\\AddRole.cshtml",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Role\\AddRole.cshtml",
+              "RelativeToolTip": "Views\\Role\\AddRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T10:31:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Role\\Index.cshtml",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T10:30:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:30:42.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleMaster.js",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\RoleMaster.js",
+              "RelativeDocumentMoniker": "Assets\\RoleMaster.js",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\RoleMaster.js",
+              "RelativeToolTip": "Assets\\RoleMaster.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-05T10:29:48.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserMasterData.js",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\UserMasterData.js",
+              "RelativeDocumentMoniker": "Assets\\UserMasterData.js",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS-Latest\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\UserMasterData.js",
+              "RelativeToolTip": "Assets\\UserMasterData.js",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwEUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-05T09:16:02.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

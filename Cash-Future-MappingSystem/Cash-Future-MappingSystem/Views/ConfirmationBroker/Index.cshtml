@@ -1,0 +1,78 @@
+﻿@{
+    ViewBag.Title = "Broker Uplode";
+}
+
+<style>
+    .btn-primary {
+        color: #fff;
+        background-color: #383095;
+        border-color: #383095;
+    }
+
+
+    .custom-file-label::after {
+        content: "Browse";
+    }
+</style>
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item">
+            <a class="nav-link text-dark" href="/ConfirmationBrokerData"><strong>Statistics</strong></a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" href="javascript:void(0);">Broker Upload</a>
+        </li>
+    </ul>
+    <hr class="m-0">
+</div>
+
+<form>
+    <div class="row m-3 p-3 border rounded">
+
+        <h5 class="col-md-12 mb-3">Upload Broker Master</h5>
+
+        <!-- From Date -->
+        <div class="form-group col-md-3">
+            <label>From Date</label>
+            <input id="Broker_UPLOAD_FROM_DATE"
+                   type="date" data-date-format="DD/MM/YYYY"
+                   class="form-control" />
+        </div>
+
+        <!-- File Upload -->
+        <div class="form-group col-md-4 mt-4 z-1">
+            <div class="custom-file mt-2">
+                <input type="file"
+                       id="Broker_xlFile"
+                       class="custom-file-input"
+                       multiple />
+                <label class="custom-file-label"
+                       for="Broker_xlFile"
+                       id="Broker_selected_file">
+                    Choose file
+                </label>
+            </div>
+            <small id="Broker_file_name" class="text-muted"></small>
+        </div>
+
+        <!-- Upload Button -->
+        <div class="form-group col-md-2 mt-4">
+            <button type="button"
+                    id="Broker_btnUpload"
+                    class="btn btn-primary mt-2">
+                Upload
+            </button>
+        </div>
+
+    </div>
+</form>
+
+<!-- Loader -->
+<div class="loader-overlay Broker-loader">
+    <div class="spinner"></div>
+</div>
+
+
+<script src="~/Assets/BrokerUplode.js"></script>
+
